@@ -23,7 +23,7 @@ repository               : "hqfang3/hqfang3.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Hongqiang (Rory) Fang"
   pronouns         : # example: "she/her"  
   bio              : "Research associate at NIST"
