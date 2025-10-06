@@ -23,14 +23,14 @@ repository               : "hqfang3/hqfang3.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : 
   name             : "Hongqiang (Rory) Fang"
   pronouns         : # example: "she/her"  
   bio              : "Research associate at NIST"
   location         : "MD, United States"
   employer         : "National Institute of Standards and Technology"
   uri              : # URL
-  email            : "hongqiang.fang@nist.gov"
+  hongqiang.fang@nist.gov            : "hongqiang.fang@nist.gov"
 
 
   # Academic websites
