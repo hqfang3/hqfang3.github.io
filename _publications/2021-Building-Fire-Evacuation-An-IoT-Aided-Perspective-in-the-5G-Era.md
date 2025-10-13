@@ -12,4 +12,4 @@ paperurl: 'http://hqfang3.github.io/files/2021-Building-Fire-Evacuation-An-IoT-A
 bibtexurl: #
 citation: 'Fang, H., Lo, S., & Lo, J. T. (2021). Building fire evacuation: An IoT-aided perspective in the 5G era. Buildings, 11(12), 643.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font <br/><img src='/images/2021-buildings.png'>.
