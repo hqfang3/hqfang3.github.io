@@ -1,11 +1,4 @@
----
-permalink: /
-title: "Hi, I am Hongqiang, Rory!"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 I am a postdoctoral research associate in the Fire Fighting Technology Group of the Fire Research Division of the Engineering Laboratory at the National Institute of Standards and Technology (NIST). I received my PhD from the City University of Hong Kong in 2023. My research interests include the application of AI and machine learning (AI/ML) in firefighting and building evacuation, assessment of emerging fire risks, and building facility management. I am currently working on the AI-enabled smart firefighting project in the Fire Research Division, where I am responsible for developing and maintaining an FDS data generator to automate the creation of multiple Fire Dynamics Simulator (FDS) input files for various scenarios. Additionally, he is dedicated to developing a recommendation system that leverages AI/ML technologies to enhance dynamic fire evacuation strategies.
 
