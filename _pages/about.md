@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-![about_me](/images/about_me_low.png){: .align_right width="300px"}
 🐧 I am a postdoctoral researcher at NIST. 
+![about_me](/images/about_me_low.png){: .align_right width="300px"}
 
 🏢 I work in fire safety engineering.
 
