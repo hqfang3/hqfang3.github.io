@@ -2,7 +2,7 @@
 title: "Building Fire Evacuation: An IoT-Aided Perspective in the 5G Era"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-Building Fire Evacuation An IoT-Aided Perspective in the 5G Era
+permalink: /publication/2021-Building Fire Evacuation An IoT-Aided Perspective in the 5G Era.md
 excerpt: "This paper is about the number 1. The number 2 is left for future work. Short description of portfolio item Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 date: 2021-11-13
 venue: 'Journal 1'
