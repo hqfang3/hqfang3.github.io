@@ -7,7 +7,7 @@ excerpt: "This paper is about the number 1. The number 2 is left for future work
 date: 2021-11-13
 venue: 'Journal 1'
 slidesurl: #
-paperurl: #
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: #
 citation: 'Fang, H., Lo, S., & Lo, J. T. (2021). Building fire evacuation: An IoT-aided perspective in the 5G era. Buildings, 11(12), 643.'
 ---
