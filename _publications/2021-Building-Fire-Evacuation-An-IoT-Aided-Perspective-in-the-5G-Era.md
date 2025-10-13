@@ -2,12 +2,12 @@
 title: "Building Fire Evacuation: An IoT-Aided Perspective in the 5G Era"
 collection: publications
 category: manuscripts
-permalink: /publication/2021-Building Fire Evacuation An IoT-Aided Perspective in the 5G Era.md
+permalink: /publication/2021-Building-Fire-Evacuation-An-IoT-Aided-Perspective-in-the-5G-Era
 excerpt: "This paper is about the number 1. The number 2 is left for future work. Short description of portfolio item Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 date: 2021-11-13
 venue: 'Journal 1'
 slidesurl: #
-paperurl: 'http://academicpages.github.io/files/2021-Building Fire Evacuation An IoT-Aided Perspective in the 5G Era.pdf'
+paperurl: 'http://academicpages.github.io/files/2021-Building-Fire-Evacuation-An-IoT-Aided-Perspective-in-the-5G-Era.pdf'
 bibtexurl: #
 citation: 'Fang, H., Lo, S., & Lo, J. T. (2021). Building fire evacuation: An IoT-aided perspective in the 5G era. Buildings, 11(12), 643.'
 ---
